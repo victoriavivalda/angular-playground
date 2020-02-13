@@ -1,5 +1,5 @@
 # Live Demo
-[Angular Playground app](https://victoriavivalda.github.io/angular-playground/list)
+[Angular Playground app](https://victoriavivalda.github.io/angular-playground)
 
 # AngularApp
 
