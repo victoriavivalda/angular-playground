@@ -1,6 +1,3 @@
-# Live Demo
-[Angular Playground app](https://victoriavivalda.github.io/angular-playground)
-
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
