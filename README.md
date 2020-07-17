@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
 ## Demo
-[Angular Playground App](https://vicky-ui.github.io/angular-playground/)
+[Angular Playground App](https://vickui.github.io/angular-playground/)
 
 ## Development server
 
